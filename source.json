@@ -1,28 +1,19 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"JetSim - Floating Origin",
+    "id":"com.kitkat.jetsim.floating-origin",
+    "url":"https://KitKat4191.github.io/JetSim-FloatingOrigin/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"contact.kitkat4191@gmail.com",
+        "name":"KitKat",
+        "url":"https://github.com/KitKat4191"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"A system for VRChat worlds that mitigates floating point issues by moving the world and player.",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/KitKat4191/JetSim-FloatingOrigin",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
+        "LiveDimensions/VRRefAssist"
     ]
 }
