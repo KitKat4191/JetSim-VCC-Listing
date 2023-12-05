@@ -1,19 +1,19 @@
 {
-    "name":"JetSim - Floating Origin",
-    "id":"com.kitkat.jetsim.floating-origin",
-    "url":"https://KitKat4191.github.io/JetSim-FloatingOrigin/index.json",
+    "name":"JetSim",
+    "id":"com.kitkat.jetsim",
+    "url":"https://KitKat4191.github.io/JetSim-VCC-Listing/index.json",
     "author":{
         "email":"contact.kitkat4191@gmail.com",
         "name":"KitKat",
         "url":"https://github.com/KitKat4191"
     },
-    "description":"A system for VRChat worlds that mitigates floating point issues by moving the world and player.",
+    "description":"A set of editor tools and runtime assets that can be used to create vehicles for VRChat worlds.",
     "infoLink":{
-        "url":"https://github.com/KitKat4191/JetSim-FloatingOrigin",
+        "url":"https://github.com/KitKat4191/JetSim-VCC-Listing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "LiveDimensions/VRRefAssist"
+        "KitKat4191/JetSim-FloatingOrigin"
     ]
 }
