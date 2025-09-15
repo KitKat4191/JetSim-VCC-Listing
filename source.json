@@ -3,13 +3,15 @@
     "id":"com.kitkat.jetsim",
     "url":"https://KitKat4191.github.io/JetSim-VCC-Listing/index.json",
     "author":{
-        "email":"contact.kitkat4191@gmail.com",
-        "name":"KitKat",
-        "url":"https://github.com/KitKat4191"
+        "email":"contact@kat.software",
+        "name":"KatSoftware",
+        "url":"https://github.com/kat-software"
     },
     "description":"A set of editor tools, udon scripts and prefabs that can be used to create vehicles for VRChat worlds.",
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "KitKat4191/JetSim-FloatingOrigin"
+        "kat-software/JetSim-Common",
+        "KitKat4191/JetSim-FloatingOrigin",
+        "kat-software/JetSim-Radios"
     ]
 }
